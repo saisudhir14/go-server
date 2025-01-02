@@ -1,6 +1,6 @@
 # 🌐 Go Local Server
 
-Welcome to the **Go Local Server** project! This is a simple HTTP server built using Go that demonstrates handling HTTP requests, serving static files, and processing form data.
+This is a simple HTTP server built using Go that demonstrates handling HTTP requests, serving static files, and processing form data.
 
 ## 📁 Project Structure
 
